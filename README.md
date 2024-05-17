@@ -1,2 +1,3 @@
 # Custom-Chat
-Custom FiveM Chat
+
+# THIS CHAT NO LONGER WORKS ANY MORE
